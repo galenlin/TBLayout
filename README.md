@@ -1,6 +1,6 @@
 # TBLayout
 
-🎉 A Semi-Hybrid solution that imitates Taobao application.
+:tada: A Semi-Hybrid solution that imitates Taobao application.
 
 * Use json files as layout
 * Use `TBLayout` as native render control
