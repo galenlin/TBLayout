@@ -1,0 +1,21 @@
+{
+    "TBLinerLayout": {
+        "_width": 320,
+        "_height": 76,
+        "_viewItems": [
+                       {
+                       "TBViewItem": {
+                       "_trackCode": "{$items[0]$$trackCode@local$}",
+                       "_trackExtraInfo": "{$items[0]$$trackExtraInfo@local$}",
+                       "_viewClass": "UIButton",
+                       "_url": "{$items[0]$$targetUrl@local$}",
+                       "imageUrl": "{$items[0]$$imageUrl[0]$$imgUrl@local$}",
+                       "_width": 314,
+                       "_marginLeft": 6,
+                       "_height": 76,
+                       "_marginTop": 12
+                       }
+                       }
+                       ]
+    }
+}
