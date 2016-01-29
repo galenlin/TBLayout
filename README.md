@@ -7,7 +7,7 @@
 
 ## Installation
 
-    > git clone 
+    > git clone https://github.com/galenlin/TBLayout.git
     > cd TBLayout
     > pod install --verbose --no-repo-update
     > open TBLayout.xcworkspace
