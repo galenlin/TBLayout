@@ -7,7 +7,20 @@
 
 ## Installation
 
-    > pod install
+    > git clone 
+    > cd TBLayout
+    > pod install --verbose --no-repo-update
+    > open TBLayout.xcworkspace
+    
+## Known issue
+
+While installing pods if you got:
+
+```
+ArgumentError - invalid byte sequence in US-ASCII
+```
+
+Please see this [issue](https://github.com/CocoaPods/CocoaPods/issues/2646) of CocoaPods.
 
 ## License
 
